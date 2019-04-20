@@ -1,0 +1,66 @@
+baseurl         = "https://wwww.cannabisanalyst.org"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = "www-cannabisanalyst-org"
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Cannabis Analyst"
+  subtitle    = "Data Analytics for the Cannabis Industry"
+
+  cover       = "/img/cannabis.jpg"
+  description = "On a mission to discover the full potential of the cannabis industry and share it with you."
+  metaDescription = ""
+  googleAnalytics = "UA-138720626-1"
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "cannaharis"
+  #fbName = "cannaharis"
+  #githubName = ""
+  instagramName = "cannaharis"
+
+  logo = ""
+  orgName = "Cannabis Analyst"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Haris Velic"
+  authorAvatar = "/img/profile-pic.png"
+  authorLocation = "Muenster, DE"
+  authorWebsite = "https://www.harisvelic.com"
+  authorDescription = "Data Analyst, Cannabis Enthusiast"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Blog"
+  url = "/"
+  weight = 200
+
+#[[menu.main]]
+#  name = "Projects"
+#  url = "/tags/project/"
+#  weight = 100
+
+#[[menu.main]]
+#  name = "Ideas"
+ # url = "/categories/ideas/"
+#  weight = 99
+
+#[[menu.main]]
+  #name = "Top 100"
+  #url = "/categories/top100/"
+  #weight = 98
+
+#[[menu.main]]
+# name = "Top 100"
+# url = "https://google.com/"
+# weight = 95
