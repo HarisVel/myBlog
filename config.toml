@@ -59,7 +59,7 @@ paginate        = 6
   #url = "/categories/top100/"
   #weight = 98
 
-#[[menu.main]]
-# name = "Top 100"
-# url = "https://google.com/"
-# weight = 95
+[[menu.main]]
+ name = "Top 100"
+ url = "https://top100.cannabisanalyst.org/"
+ weight = 95
