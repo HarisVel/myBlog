@@ -14,8 +14,7 @@ paginate        = 6
   metaDescription = ""
   googleAnalytics = "UA-138720626-1"
   customCSS = []
-  RSSLink = "https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fwww.cannabisanalyst.org%2Findex.xml"
-
+  RSSLink = ""
   twitterName = "cannaharis"
   #fbName = "cannaharis"
   #githubName = ""
