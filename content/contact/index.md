@@ -1,6 +1,7 @@
 +++
 date = "2019"
-title = "Get In Touch"
+title = "Contact"
+[menu.main]
 +++
 
 <form action="/thankyou" method="post" name="Contact" data-netlify="true" netlify-honeypot="bot-field" netlify>
