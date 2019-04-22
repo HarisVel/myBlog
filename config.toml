@@ -1,4 +1,4 @@
-baseurl         = "www.cannabisanalyst.org"
+baseurl         = "https://cannabisanalyst.netlify.com"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = "www-cannabisanalyst-org"
