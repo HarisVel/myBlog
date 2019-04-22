@@ -22,8 +22,8 @@ paginate        = 6
 
   logo = ""
   orgName = "Cannabis Analyst"
-  orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
+  orgWebsite = "https://www.cannabisanalyst.org"
+  orgDescription = "Cannabis Analyst"
 
   author = "cannaharis"
   authorAvatar = "/img/profile-pic.png"
