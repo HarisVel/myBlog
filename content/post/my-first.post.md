@@ -7,7 +7,7 @@ comments: true
 type: post
 ---
 
-### You think you are so special?   
+You think you are so special?   
 
 <p style="text-align: justify;">Well, indeed you are. Your heart will beat 100,000 times today. It is going to pump the blood which travels for more than 60,000 miles in 24-hour period. You are made out of 50 trillion cells and every cell has 1.4 volts, so there is 70 hundred trillion volts electricity in your body right now. By the time you read this sentence 25 trillion new cells will be created by your body...</p>
 
