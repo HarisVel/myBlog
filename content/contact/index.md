@@ -3,7 +3,10 @@ date = "2019"
 title = "Get In Touch"
 +++
 
-<form method="post" name="Contact" netlify>
+<form action="/thankyou" method="post" name="Contact" data-netlify="true" netlify-honeypot="bot-field" netlify>
+    <p style="visibility: hidden">
+        <label> Don't Fill This Out If You're Human:" </label> <input name=bot-field/>
+    </p>
     <lable for="fName">First Name</label>
     <br>
     <input type="text" id="fname" name="firstname" placeholder="Your first name..">
@@ -22,6 +25,9 @@ title = "Get In Touch"
     <label for="message">Message</label>
     <br>
     <textarea id="message" placeholder="..." style="height:200px"></textarea>
+    <br>
+    <br>
+    <div data-netlify-recaptcha></div>
     <br>
     <br>
     <input type="submit" value="Submit" style="">
